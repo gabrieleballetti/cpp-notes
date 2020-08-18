@@ -31,10 +31,6 @@
 *.out
 *.app
 
-# Folders
-bin/
-obj/
-
 # Extra
 .DS_Store
 .vscode/
