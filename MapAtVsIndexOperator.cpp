@@ -2,6 +2,8 @@
 #include <string>
 #include <map>
 
+// needs >=C++11
+
 int main ()
 {
 	std::map<std::string,int> mymap = {
